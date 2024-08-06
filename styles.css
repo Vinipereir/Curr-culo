@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(17, 16, 16);
+}
+
+img,
+h1,
+h2 {
+    border-radius: 100%;
+    justify-content: center;
+    display: flex;
+    color: aliceblue;
+    margin: auto;
+
+
+}
+
+h3,
+p {
+    color: rgb(96, 106, 241);
+    justify-content: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+ul,
+p {
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-items: center;
+    align-items: center;
+
+}
+
+cursos {
+    font-size: 10px;
+
+}
+
+h3 {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+
+}
+
+p {
+    font-size: 20px;
+    align-items: center;
+    display: flex;
+    justify-items: center;
+
+}
+
+Rede Social {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+
+}
